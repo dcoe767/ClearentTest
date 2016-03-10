@@ -1,0 +1,7 @@
+c:\users\coed\documents\visual studio 2013\Projects\CreditCardTest\InterestCalculationTests\obj\Debug\InterestCalculationTests.csprojResolveAssemblyReference.cache
+c:\users\coed\documents\visual studio 2013\Projects\CreditCardTest\InterestCalculationTests\bin\Debug\InterestCalculationTests.dll
+c:\users\coed\documents\visual studio 2013\Projects\CreditCardTest\InterestCalculationTests\bin\Debug\InterestCalculationTests.pdb
+c:\users\coed\documents\visual studio 2013\Projects\CreditCardTest\InterestCalculationTests\bin\Debug\CreditCardTest.exe
+c:\users\coed\documents\visual studio 2013\Projects\CreditCardTest\InterestCalculationTests\bin\Debug\CreditCardTest.pdb
+c:\users\coed\documents\visual studio 2013\Projects\CreditCardTest\InterestCalculationTests\obj\Debug\InterestCalculationTests.dll
+c:\users\coed\documents\visual studio 2013\Projects\CreditCardTest\InterestCalculationTests\obj\Debug\InterestCalculationTests.pdb

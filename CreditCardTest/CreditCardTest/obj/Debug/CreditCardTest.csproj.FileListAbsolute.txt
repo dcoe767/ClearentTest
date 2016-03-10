@@ -1,0 +1,5 @@
+c:\users\coed\documents\visual studio 2013\Projects\CreditCardTest\CreditCardTest\bin\Debug\CreditCardTest.exe.config
+c:\users\coed\documents\visual studio 2013\Projects\CreditCardTest\CreditCardTest\bin\Debug\CreditCardTest.exe
+c:\users\coed\documents\visual studio 2013\Projects\CreditCardTest\CreditCardTest\bin\Debug\CreditCardTest.pdb
+c:\users\coed\documents\visual studio 2013\Projects\CreditCardTest\CreditCardTest\obj\Debug\CreditCardTest.exe
+c:\users\coed\documents\visual studio 2013\Projects\CreditCardTest\CreditCardTest\obj\Debug\CreditCardTest.pdb
